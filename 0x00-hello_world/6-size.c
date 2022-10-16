@@ -3,7 +3,7 @@
  * main -size doesnt matter
  *
  * return: 0 unless otherwise
-*/
+ */
 int main(void)
 {
 	printf("Size of a char: %ld byte(s)\n", sizeof(char));
