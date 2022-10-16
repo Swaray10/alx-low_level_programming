@@ -2,7 +2,7 @@
 /**
  * main -print a line of code
  *
- * return: 0 unless otherwise
+ * Return: 0 unless otherwise
  */
 int main(void)
 {

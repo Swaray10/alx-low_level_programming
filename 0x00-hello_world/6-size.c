@@ -2,7 +2,7 @@
 /**
  * main -size doesnt matter
  *
- * return: 0 unless otherwise
+ * Return: 0 unless otherwise
  */
 int main(void)
 {
