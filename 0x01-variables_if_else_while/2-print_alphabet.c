@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
- * main - prints letters in lower case
+ * main -prints stuff
  *
- * Return: 0 (success)
+ * Return: 0 on success
  */
 int main(void)
 {
@@ -10,7 +10,6 @@ int main(void)
 
 	for (alpha = 'a'; alpha <= 'z'; alpha++)
 		putchar(alpha);
-
 	putchar('\n');
 	return (0);
 }
